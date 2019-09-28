@@ -45,6 +45,7 @@ review [example](https://lists.sr.ht/~sircmpwn/ctools/patches/8134).
 ## [Iron](https://blog.janestreet.com/putting-the-i-back-in-ide-towards-a-github-explorer/)
 
 * Integrated into text editor.
+* Comments are committed literally as comments in the code.
 * [Video presentation](https://blog.janestreet.com/jane-street-tech-talk-how-jane-street-does-code-review/)
 
 ## [GitHub](https://github.com/)
