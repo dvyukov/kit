@@ -29,6 +29,11 @@ List of requirements:
 * Subsystem support (what subsystem a change is meant to, mailing list to notify, etc).
 * git integration:
   * send change from the current branch
+    * if the current branch is branched off, say, `net` tree
+      and contains a single commit on top, a single command
+      (e.g. `kit mail`) should send the commit for review
+      to net mailing list (series for multiple commits,
+      v2 if v1 was already mailed)
   * create local commits from changes
   * add Reviewed/Acked-by tags to commits
 * Automatically importing all changes (series/versions) to a git tree for browsing/pulling.
