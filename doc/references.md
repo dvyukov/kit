@@ -26,6 +26,9 @@ git porcelain for working with gitlab via its REST api.
 
 ## [Patchwork](https://patchwork.ozlabs.org/project/netdev/list/)
 
+Supports command-line interactions with [git-pw](https://patchwork.readthedocs.io/projects/git-pw/en/latest/usage/).\
+Commands include: listing, updating/delegating, downloading/applying patches/series. 
+
 ## [Patchew](https://patchew.org/QEMU/)
 
 Patchwork-fork.
