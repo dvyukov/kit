@@ -54,3 +54,7 @@ review [example](https://lists.sr.ht/~sircmpwn/ctools/patches/8134).
 ## [GitHub](https://github.com/)
 
 ## [GitLab](https://about.gitlab.com/)
+
+## [icdiff](https://www.jefftk.com/icdiff)
+
+Colored side-by-side diffs in console.
