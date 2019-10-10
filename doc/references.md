@@ -51,6 +51,13 @@ review [example](https://lists.sr.ht/~sircmpwn/ctools/patches/8134).
 * Comments are committed literally as comments in the code.
 * [Video presentation](https://blog.janestreet.com/jane-street-tech-talk-how-jane-street-does-code-review/)
 
+## [Fossil](https://www.fossil-scm.org/home/doc/trunk/www/index.wiki)
+
+I did not really yet understand what it is. But it seems to come with own VCS which is not git.
+
+Fossil is a simple, high-reliability, distributed software configuration management system with these advanced features: 
+Integrated Bug Tracking, Wiki, Forum, and Technotes; Built-in Web Interface...
+
 ## [GitHub](https://github.com/)
 
 ## [GitLab](https://about.gitlab.com/)
