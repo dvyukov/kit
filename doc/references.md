@@ -58,6 +58,10 @@ I did not really yet understand what it is. But it seems to come with own VCS wh
 Fossil is a simple, high-reliability, distributed software configuration management system with these advanced features: 
 Integrated Bug Tracking, Wiki, Forum, and Technotes; Built-in Web Interface...
 
+## [GitGitGadget](https://gitgitgadget.github.io/)
+
+Transforms your Pull Request on Github into plain text patch email on a mailing list.
+
 ## [GitHub](https://github.com/)
 
 ## [GitLab](https://about.gitlab.com/)
