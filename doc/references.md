@@ -73,6 +73,10 @@ Integrated Bug Tracking, Wiki, Forum, and Technotes; Built-in Web Interface...
 
 Transforms your Pull Request on Github into plain text patch email on a mailing list.
 
+## [email2git](https://github.com/alexcourouble/email2git)
+
+Matching Commits with Their Mailing List Discussions.
+
 ## [GitHub](https://github.com/)
 
 ## [GitLab](https://about.gitlab.com/)
