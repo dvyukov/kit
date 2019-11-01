@@ -77,6 +77,10 @@ Transforms your Pull Request on Github into plain text patch email on a mailing 
 
 Matching Commits with Their Mailing List Discussions.
 
+## [git-codereview](https://godoc.org/golang.org/x/review/git-codereview)
+
+A set of git commands for code reviews (wrapping gerrit in that implementation) used by Go project.
+
 ## [GitHub](https://github.com/)
 
 ## [GitLab](https://about.gitlab.com/)
