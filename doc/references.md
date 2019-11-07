@@ -46,6 +46,8 @@ Commands include: listing, updating/delegating, downloading/applying patches/ser
 
 Has read-only API that among other things exposes [information about patches](https://patchwork.ozlabs.org/api/patches/?order=-id).
 
+[Source](https://github.com/getpatchwork/patchwork), [email parser](https://github.com/getpatchwork/patchwork/blob/master/patchwork/parser.py), [parsing tests](https://github.com/getpatchwork/patchwork/tree/master/patchwork/tests/mail).
+
 ## [Patchew](https://patchew.org/QEMU/)
 
 Patchwork-fork.
