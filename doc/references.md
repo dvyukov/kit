@@ -20,6 +20,8 @@ Code review system:
 * Has handy (local) web interface.
 * Has dashboard/plugins/access control.
 
+Information about [metadata schema](https://lore.kernel.org/workflows/87sgn0zr09.fsf@iris.silentflame.com/T/#m3db87b43cf5e581ba4d3a7fd5f1fbff5aea3546a).
+
 ## [gertty](https://opendev.org/ttygroup/gertty)
 
 Gertty is a console-based interface to the Gerrit Code Review system.
@@ -39,6 +41,8 @@ git porcelain for working with gitlab via its REST api.
 
 Supports command-line interactions with [git-pw](https://patchwork.readthedocs.io/projects/git-pw/en/latest/usage/).\
 Commands include: listing, updating/delegating, downloading/applying patches/series. 
+
+Has read-only API that among other things exposes [information about patches](https://patchwork.ozlabs.org/api/patches/?order=-id).
 
 ## [Patchew](https://patchew.org/QEMU/)
 
