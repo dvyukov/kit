@@ -12,6 +12,8 @@ Distributed code review system for Git repos:
 * Has (local) web interface.
 * Has bridges to github/phabricator.
 
+[Metadata schema](https://github.com/google/git-appraise/tree/master/schema).
+
 ## [Gerrit](https://www.gerritcodereview.com)
 
 Code review system:
