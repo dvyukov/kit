@@ -96,3 +96,8 @@ A set of git commands for code reviews (wrapping gerrit in that implementation) 
 ## [icdiff](https://www.jefftk.com/icdiff)
 
 Colored side-by-side diffs in console.
+
+## [Using GIT as a storage]
+
+Also see list at [Using GIT as a storage](https://github.com/ligurio/testres/wiki/Using-GIT-as-a-storage#who-else-supports-git-as-a-storage) and [UI](https://github.com/ligurio/testres/wiki/UI).
+
